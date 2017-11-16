@@ -30,10 +30,8 @@ int FindANumber(int *a, int length)
             
                 times--;
             
-            }
-            
+            }   
         }
-        
     }
     return x;
 }
